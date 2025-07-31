@@ -1,6 +1,5 @@
 /**
  * Database Migration Script
- *
  * This script applies Drizzle migrations to your Neon PostgreSQL database.
  * Run it with: npm run db:migrate
  */

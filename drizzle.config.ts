@@ -1,5 +1,4 @@
-/**
- * Drizzle Configuration
+/* Drizzle Configuration
  *
  * This file configures Drizzle ORM to work with our Neon PostgreSQL database.
  * It's used by the Drizzle CLI for schema migrations and generating SQL.
