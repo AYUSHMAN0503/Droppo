@@ -1,7 +1,7 @@
 /**
- * Database Schema for Droply
+ * Database Schema for Droppo
  *
- * This file defines the database structure for our Droply application.
+ * This file defines the database structure for our Droppo application.
  * We're using Drizzle ORM with PostgreSQL (via Neon) for our database.
  */
 
@@ -17,8 +17,7 @@ import { relations } from "drizzle-orm";
 
 /**
  * Files Table
- *
- * This table stores all files and folders in our Droply.
+ * This table stores all files and folders in our Droppo.
  * - Both files and folders are stored in the same table
  * - Folders are identified by the isFolder flag
  * - Files/folders can be nested using the parentId (creating a tree structure)

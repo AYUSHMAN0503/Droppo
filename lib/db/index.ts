@@ -1,6 +1,5 @@
 /* Database Connection for Droppo
- This file sets up the connection to our Neon PostgreSQL database using Drizzle ORM.
-*/
+ This file sets up the connection to our Neon PostgreSQL database using Drizzle ORM.*/
 
 import { drizzle } from "drizzle-orm/neon-http";
 import { neon } from "@neondatabase/serverless";
